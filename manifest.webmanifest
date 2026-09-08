@@ -1,0 +1,15 @@
+{
+  "name": "秦可的周课表 · 互动日程表",
+  "short_name": "周课表",
+  "description": "互动周课表,数据保存在本地,栗子小助手秦可陪你一起加油",
+  "lang": "zh-CN",
+  "start_url": "./周课表.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ee",
+  "theme_color": "#f97316",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
