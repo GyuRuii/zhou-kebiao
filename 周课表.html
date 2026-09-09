@@ -117,11 +117,12 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
   /* ===== 小备忘录 ===== */
   .memo-row { display: flex; align-items: flex-start; gap: 12px; flex-wrap: wrap; margin-top: 8px; }
   .memo {
-    position: relative; flex: 1; min-width: 200px; max-width: 360px;
+    position: relative; flex: 1; min-width: 230px; max-width: 400px;
+    margin-left: 14px;
     background: var(--memo-bg);
     border: 1px dashed var(--memo-border);
     border-radius: 12px;
-    padding: 24px 12px 8px;
+    padding: 24px 14px 10px;
     transform: rotate(-1.6deg);
     box-shadow: 0 3px 10px rgba(0, 0, 0, .10);
   }
@@ -130,12 +131,12 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
     transform: translateX(-50%) rotate(10deg);
     font-size: 19px; line-height: 1;
   }
-  .memo-title { display: block; text-align: center; font-size: 11.5px; color: var(--muted); margin-bottom: 4px; }
+  .memo-title { display: block; text-align: center; font-size: 12.5px; color: var(--muted); margin-bottom: 5px; }
   .memo textarea {
     width: 100%; border: none; outline: none; resize: none;
     background: transparent; color: var(--text);
-    font-family: inherit; font-size: 12.5px; line-height: 1.6;
-    min-height: 62px;
+    font-family: inherit; font-size: 13px; line-height: 1.6;
+    min-height: 70px;
   }
   .memo textarea::placeholder { color: var(--muted); opacity: .7; }
 
