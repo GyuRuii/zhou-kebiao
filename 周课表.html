@@ -282,6 +282,7 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
       <button class="btn" id="zoomIn" type="button" title="放大课表 (⌘+)">+</button>
       <button class="btn" id="zoomFit" type="button" title="缩放到正好装下整张课表">适配窗口</button>
       <button class="btn" id="exportBtn" type="button">导出数据</button>
+      <button class="btn" id="syncBtn" type="button">同步数据</button>
       <button class="btn" id="importBtn" type="button">导入数据</button>
       <input type="file" id="importFile" accept=".json,application/json" hidden />
     </div>
@@ -643,27 +644,31 @@ $('#exportBtn').addEventListener('click', () => {
   a.click();
   URL.revokeObjectURL(a.href);
 });
+/* 清洗日程数组(导入/同步共用) */
+function cleanEvents(data) {
+  if (!Array.isArray(data)) return null;
+  return data
+    .filter(e => e && typeof e.title === 'string' && e.title &&
+                 Number.isInteger(e.day) && e.day >= 0 && e.day < 7 &&
+                 Number.isFinite(e.start) && Number.isFinite(e.end) && e.start < e.end)
+    .map(e => ({
+      id: typeof e.id === 'string' ? e.id : uid(),
+      title: e.title,
+      day: e.day,
+      start: clamp(Math.round(e.start), START_MIN, END_MIN),
+      end: clamp(Math.round(e.end), START_MIN, END_MIN),
+      color: Number.isInteger(e.color) && e.color >= 0 && e.color < COLORS.length ? e.color : 0,
+      location: typeof e.location === 'string' ? e.location : '',
+    }))
+    .filter(e => e.start < e.end);
+}
 $('#importBtn').addEventListener('click', () => $('#importFile').click());
 $('#importFile').addEventListener('change', () => {
   const f = $('#importFile').files[0];
   if (!f) return;
   f.text().then(text => {
-    const data = JSON.parse(text);
-    if (!Array.isArray(data)) throw new Error();
-    const cleaned = data
-      .filter(e => e && typeof e.title === 'string' && e.title &&
-                   Number.isInteger(e.day) && e.day >= 0 && e.day < 7 &&
-                   Number.isFinite(e.start) && Number.isFinite(e.end) && e.start < e.end)
-      .map(e => ({
-        id: typeof e.id === 'string' ? e.id : uid(),
-        title: e.title,
-        day: e.day,
-        start: clamp(Math.round(e.start), START_MIN, END_MIN),
-        end: clamp(Math.round(e.end), START_MIN, END_MIN),
-        color: Number.isInteger(e.color) && e.color >= 0 && e.color < COLORS.length ? e.color : 0,
-        location: typeof e.location === 'string' ? e.location : '',
-      }))
-      .filter(e => e.start < e.end);
+    const cleaned = cleanEvents(JSON.parse(text));
+    if (!cleaned) throw new Error();
     if (!confirm(`将导入 ${cleaned.length} 条日程,替换当前数据,确定吗?`)) return;
     events = cleaned;
     save();
@@ -671,6 +676,35 @@ $('#importFile').addEventListener('change', () => {
   }).catch(() => alert('导入失败:文件格式不正确'));
   $('#importFile').value = '';
 });
+
+/* ---------- 同步:从网上拉最新课表 + 备忘录 ---------- */
+$('#syncBtn').addEventListener('click', async () => {
+  const btn = $('#syncBtn');
+  btn.disabled = true;
+  try {
+    const res = await fetch('./课表.json?v=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const obj = await res.json();
+    const cleaned = cleanEvents(Array.isArray(obj) ? obj : (obj && obj.events));
+    if (!cleaned || !cleaned.length) throw new Error('no data');
+    const memo = (obj && typeof obj.memo === 'string') ? obj.memo : '';
+    if (!confirm(`将同步 ${cleaned.length} 条日程和备忘录,替换本机数据,确定吗?`)) return;
+    events = cleaned;
+    save();
+    localStorage.setItem(MEMO_KEY, memo);
+    memoInput.value = memo;
+    renderAll();
+    alert('同步完成 ✅ 课表和备忘录已与电脑端一致');
+  } catch {
+    alert('同步失败:请检查网络,或电脑端还没有上传最新数据');
+  } finally {
+    btn.disabled = false;
+  }
+});
+/* Mac 原生版不需要网络同步,隐藏按钮 */
+if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.export) {
+  $('#syncBtn').style.display = 'none';
+}
 
 /* ---------- 缩放 ---------- */
 function applyZoom() {

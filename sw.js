@@ -1,5 +1,5 @@
 /* 周课表 Service Worker:离线缓存,数据本身仍在浏览器 localStorage(本地) */
-const CACHE = 'timetable-v2';
+const CACHE = 'timetable-v3';
 const ASSETS = [
   './周课表.html',
   './manifest.webmanifest',
@@ -27,6 +27,16 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const req = e.request;
   if (req.method !== 'GET') return;
+  // 课表数据始终网络优先,保证「同步」拿到最新
+  if (decodeURIComponent(new URL(req.url).pathname).endsWith('课表.json')) {
+    e.respondWith(
+      fetch(req).then(res => {
+        if (res.ok) caches.open(CACHE).then(c => c.put(req, res.clone()));
+        return res;
+      })
+    );
+    return;
+  }
   e.respondWith((async () => {
     const hit = await caches.match(req);
     if (hit) return hit;
