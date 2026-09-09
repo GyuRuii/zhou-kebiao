@@ -127,24 +127,6 @@
       "location": "A509 (KAM)"
     },
     {
-      "id": "wkb-15",
-      "title": "Chemistry-AL.C.CHE2",
-      "day": 2,
-      "start": 910,
-      "end": 950,
-      "color": 4,
-      "location": "B814 (PEF)"
-    },
-    {
-      "id": "wkb-16",
-      "title": "Chemistry-AL.C.CHE2",
-      "day": 2,
-      "start": 950,
-      "end": 990,
-      "color": 4,
-      "location": "B814 (PEF)"
-    },
-    {
       "id": "wkb-17",
       "title": "Economics-AL.F.ECO1",
       "day": 3,
@@ -272,12 +254,12 @@
     },
     {
       "id": "639f9df5-2b75-4ed9-8449-93cb17b9ee15",
-      "title": "写新的周表！！",
+      "title": "写新的周表！发tonken",
       "day": 6,
       "start": 1200,
       "end": 1260,
       "color": 5,
-      "location": ""
+      "location": "发新的token"
     },
     {
       "id": "4ad487fc-a640-4f50-aca3-3c297369f5ed",
