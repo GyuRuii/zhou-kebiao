@@ -103,9 +103,9 @@
       "id": "wkb-12",
       "title": "PSHE-A2.Fire3.PSHE",
       "day": 2,
-      "start": 680,
+      "start": 690,
       "end": 720,
-      "color": 6,
+      "color": 0,
       "location": "B333 (MAS)"
     },
     {
@@ -269,7 +269,25 @@
       "end": 480,
       "color": 7,
       "location": ""
+    },
+    {
+      "id": "b1feb924-1222-4ecd-9f8b-0ba6a319d5fc",
+      "title": "TMUA paper2",
+      "day": 2,
+      "start": 750,
+      "end": 810,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "20d6549a-bf9a-43e2-b8b1-4d22dbcb8d30",
+      "title": "学好TMUA negation！",
+      "day": 2,
+      "start": 960,
+      "end": 1020,
+      "color": 6,
+      "location": ""
     }
   ],
-  "memo": "-记得刷tmua paper！尽力就好，不要让自己后悔。就那么一次。坚强  \n-9号刷2017 paper2哦～"
+  "memo": "-记得刷tmua paper！尽力就好，不要让自己后悔。就那么一次。坚强  \n-9号刷2017 paper2哦～ （刷完啦）"
 }
