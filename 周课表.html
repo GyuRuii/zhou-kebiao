@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="color-scheme" content="light dark" />
-<title>秦可的周课表 · 互动日程表</title>
+<title>小栗周表 · 互动日程表</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>" />
 <link rel="manifest" href="./manifest.webmanifest" />
 <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
@@ -12,7 +12,7 @@
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-<meta name="apple-mobile-web-app-title" content="周课表" />
+<meta name="apple-mobile-web-app-title" content="小栗周表" />
 <script>
 // 仅在 http/https 下注册 Service Worker(离线缓存),file:// 打开时跳过
 if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
@@ -269,7 +269,7 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
 <div class="container">
   <header class="top">
     <div>
-      <h1>📅 秦可的周课表</h1>
+      <h1>📅 小栗周表</h1>
       <p class="hint">点空格子添加日程 · 拖动日程改时间 · 点日程可编辑或删除 · 数据才不是为了你保存的!</p>
     </div>
     <div class="actions">
@@ -640,7 +640,7 @@ $('#exportBtn').addEventListener('click', () => {
   const blob = new Blob([json], { type: 'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  a.download = '周课表.json';
+  a.download = '小栗周表.json';
   a.click();
   URL.revokeObjectURL(a.href);
 });

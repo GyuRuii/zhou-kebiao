@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 # 1. 从 Mac 版 app 的 WebKit 存储里读最新数据
 DB_DIR="$HOME/Library/WebKit/com.chestnut.weeklytimetable/WebsiteData/Default"
 DB=$(find "$DB_DIR" -name "localstorage.sqlite3" -path "*LocalStorage*" 2>/dev/null | head -1)
-[ -n "$DB" ] || { echo "找不到 Mac 版周课表的本地存储,请先打开过一次 Mac 版 app"; exit 1; }
+[ -n "$DB" ] || { echo "找不到 Mac 版小栗周表的本地存储,请先打开过一次 Mac 版 app"; exit 1; }
 
 TMP=$(mktemp -d)
 cp "$DB" "$TMP/"

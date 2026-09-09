@@ -1,5 +1,5 @@
-/* 周课表 Service Worker:离线缓存,数据本身仍在浏览器 localStorage(本地) */
-const CACHE = 'timetable-v3';
+/* 小栗周表 Service Worker:离线缓存,数据本身仍在浏览器 localStorage(本地) */
+const CACHE = 'timetable-v4';
 const ASSETS = [
   './周课表.html',
   './manifest.webmanifest',
