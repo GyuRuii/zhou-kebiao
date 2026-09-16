@@ -452,12 +452,12 @@
     },
     {
       "id": "0cd74b18-7ff5-43d5-a8ee-93a7786b013a",
-      "title": "2020 P2",
+      "title": "2020 P2 (18)",
       "day": 2,
       "start": 960,
       "end": 1050,
       "color": 2,
-      "location": ""
+      "location": "又是没审题"
     },
     {
       "id": "61824799-3ec3-4605-b110-887936d98244",
@@ -474,6 +474,33 @@
       "day": 2,
       "start": 1140,
       "end": 1200,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "11688d9d-44c2-4a9a-8556-d9cabd1cac17",
+      "title": "Clavis P2",
+      "day": 3,
+      "start": 600,
+      "end": 660,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "d44da997-8e0c-45c1-930d-e6f1e35a0fcd",
+      "title": "Calvis P1",
+      "day": 3,
+      "start": 1020,
+      "end": 1080,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "d0f40b56-084e-44e6-8eda-970b5f2f6475",
+      "title": "稍微复习一下Econ和Lit",
+      "day": 3,
+      "start": 1140,
+      "end": 1230,
       "color": 7,
       "location": ""
     }
