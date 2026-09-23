@@ -398,28 +398,19 @@
     },
     {
       "id": "197247b0-7bd5-4447-b304-e5fa0cece5f3",
-      "title": "Star M2P2",
+      "title": "Mock P1",
       "day": 2,
       "start": 720,
       "end": 780,
-      "color": 6,
+      "color": 1,
       "location": ""
-    },
-    {
-      "id": "0cd74b18-7ff5-43d5-a8ee-93a7786b013a",
-      "title": "2020 P2 (18)",
-      "day": 2,
-      "start": 960,
-      "end": 1050,
-      "color": 2,
-      "location": "又是没审题"
     },
     {
       "id": "61824799-3ec3-4605-b110-887936d98244",
       "title": "吃错题！和知识点",
       "day": 2,
-      "start": 1080,
-      "end": 1140,
+      "start": 960,
+      "end": 1020,
       "color": 6,
       "location": ""
     },
