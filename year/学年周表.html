@@ -1535,8 +1535,8 @@ async function syncCurrentWeek() {
 
     const same = key === todayKey();
     const msg = same
-      ? `从电脑同步本周（第 ${weekNo(key)} 周）的 ${events.length} 条日程？\n\n会替换手机上周的日程；周记、打勾、星级不会动。`
-      : `电脑端上传的是第 ${weekNo(key)} 周（${weekRange(key)}），不是手机上的本周。\n\n仍然把 ${events.length} 条日程同步到那一周吗？`;
+      ? `从电脑同步本周（第 ${weekNo(key)} 周）的 ${events.length} 条日程？\n\n会替换手机上的本周日程和长期备忘录；周记、打勾、星级不会动。`
+      : `电脑端上传的是第 ${weekNo(key)} 周（${weekRange(key)}），不是手机上的本周。\n\n仍然把 ${events.length} 条日程同步到那一周吗？长期备忘录也会被电脑端的覆盖。`;
     if (!confirm(msg)) return;
 
     flushNote();
@@ -1544,7 +1544,9 @@ async function syncCurrentWeek() {
     w.events = events;
     const ids = new Set(events.map(e => e.id));
     w.record.done = w.record.done.filter(id => ids.has(id));
-    if (obj && typeof obj.memo === 'string' && !year.memo) {
+    // 长期备忘录按电脑端覆盖（和旧版同步一致；空内容也会覆盖）
+    if (obj && typeof obj.memo === 'string') {
+      if (memoTimer) { clearTimeout(memoTimer); memoTimer = null; }
       year.memo = obj.memo.slice(0, 300);
       memoInput.value = year.memo;
     }
