@@ -1,0 +1,23 @@
+{
+  "name": "小栗学年表",
+  "short_name": "小栗学年表",
+  "description": "一年制手动周表 · 每周独立 · 过去周自动冻结",
+  "lang": "zh-CN",
+  "start_url": "./学年周表.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ee",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "./icons-year/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons-year/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

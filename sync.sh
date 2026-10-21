@@ -1,31 +1,39 @@
 #!/bin/sh
 # 同步课表到手机版:直接读取 Mac 版 app 的本地存储(课表+备忘录),上传到 GitHub Pages
+# 优先读「小栗学年表」,没有再看旧「小栗周表」
 # 用法: 双击运行或 ./sync.sh —— 无需手动导出
 set -e
 cd "$(dirname "$0")"
 
 # 1. 从 Mac 版 app 的 WebKit 存储里读最新数据
-DB_DIR="$HOME/Library/WebKit/com.chestnut.weeklytimetable/WebsiteData/Default"
-DB=$(find "$DB_DIR" -name "localstorage.sqlite3" -path "*LocalStorage*" 2>/dev/null | head -1)
-[ -n "$DB" ] || { echo "找不到 Mac 版小栗周表的本地存储,请先打开过一次 Mac 版 app"; exit 1; }
+DB=""
+for BID in com.chestnut.yeartimetable com.chestnut.weeklytimetable; do
+  DB_DIR="$HOME/Library/WebKit/$BID/WebsiteData/Default"
+  DB=$(find "$DB_DIR" -name "localstorage.sqlite3" -path "*LocalStorage*" 2>/dev/null | head -1)
+  if [ -n "$DB" ]; then break; fi
+done
+[ -n "$DB" ] || { echo "找不到小栗学年表 / 小栗周表的本地存储,请先打开过一次 App"; exit 1; }
 
 TMP=$(mktemp -d)
 cp "$DB" "$TMP/"
 cp "$DB-wal" "$TMP/" 2>/dev/null || true
 cp "$DB-shm" "$TMP/" 2>/dev/null || true
 python3 - "$TMP/localstorage.sqlite3" "$TMP/payload.json" <<'PYEOF'
-import sqlite3, json, sys
+import sqlite3, json, sys, datetime
 con = sqlite3.connect(sys.argv[1])
 vals = {}
 for k, v in con.execute("SELECT key, value FROM ItemTable"):
     vals[k] = v.decode('utf-16')
 con.close()
+today = datetime.date.today()
+monday = today - datetime.timedelta(days=today.weekday())
 payload = {
+    "weekKey": monday.isoformat(),
     "events": json.loads(vals.get('weekly-timetable-v1', '[]')),
     "memo": vals.get('weekly-timetable-memo-v1', ''),
 }
 open(sys.argv[2], 'w', encoding='utf-8').write(json.dumps(payload, ensure_ascii=False, indent=2))
-print(f"读取到 {len(payload['events'])} 条日程 + 备忘录 {len(payload['memo'])} 字")
+print(f"读取到 {len(payload['events'])} 条日程 + 备忘录 {len(payload['memo'])} 字 (weekKey={payload['weekKey']})")
 PYEOF
 cp "$TMP/payload.json" "课表.json"
 rm -rf "$TMP"
