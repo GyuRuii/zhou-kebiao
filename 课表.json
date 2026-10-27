@@ -1,69 +1,6 @@
 {
-  "weekKey": "2026-10-19",
+  "weekKey": "2026-10-26",
   "events": [
-    {
-      "id": "wkb-01",
-      "title": "Form Time-A2.Fire3",
-      "day": 0,
-      "start": 800,
-      "end": 810,
-      "color": 7,
-      "location": "B333"
-    },
-    {
-      "id": "wkb-02",
-      "title": "Chemistry-AL.C.CHE2",
-      "day": 0,
-      "start": 820,
-      "end": 860,
-      "color": 4,
-      "location": "A616 (PEF)"
-    },
-    {
-      "id": "wkb-03",
-      "title": "Chemistry-AL.C.CHE2",
-      "day": 0,
-      "start": 860,
-      "end": 900,
-      "color": 4,
-      "location": "A616 (PEF)"
-    },
-    {
-      "id": "wkb-04",
-      "title": "Mathematics-AL.D.FMA.X",
-      "day": 0,
-      "start": 910,
-      "end": 950,
-      "color": 5,
-      "location": "A416 (ANN)"
-    },
-    {
-      "id": "wkb-05",
-      "title": "Mathematics-AL.D.FMA.X",
-      "day": 0,
-      "start": 950,
-      "end": 990,
-      "color": 5,
-      "location": "A416 (ANN)"
-    },
-    {
-      "id": "wkb-06",
-      "title": "SCIE Finance Club",
-      "day": 0,
-      "start": 1000,
-      "end": 1050,
-      "color": 0,
-      "location": "A414 (ECA)"
-    },
-    {
-      "id": "wkb-07",
-      "title": "Form Time-A2.Fire3",
-      "day": 1,
-      "start": 800,
-      "end": 810,
-      "color": 7,
-      "location": "B333"
-    },
     {
       "id": "wkb-08",
       "title": "Chemistry-AL.C.CHE2",
@@ -245,13 +182,13 @@
       "location": "RYA"
     },
     {
-      "id": "37fc7f26-92b6-441e-96bc-50a60bef4b3e",
-      "title": "Economics-AL",
-      "day": 1,
-      "start": 570,
-      "end": 660,
-      "color": 2,
-      "location": "A219"
+      "id": "639f9df5-2b75-4ed9-8449-93cb17b9ee15",
+      "title": "写新的周表！发tonken",
+      "day": 6,
+      "start": 1200,
+      "end": 1260,
+      "color": 5,
+      "location": "发新的token"
     },
     {
       "id": "4ad487fc-a640-4f50-aca3-3c297369f5ed",
@@ -308,29 +245,11 @@
       "location": ""
     },
     {
-      "id": "02f97764-348c-4101-af82-9fa9525b4334",
-      "title": "练背",
-      "day": 0,
-      "start": 720,
-      "end": 780,
-      "color": 1,
-      "location": ""
-    },
-    {
       "id": "41cdc86c-eb2c-4142-b1e0-22b7e4d7866a",
       "title": "练背/肩/核心",
       "day": 4,
       "start": 780,
       "end": 840,
-      "color": 1,
-      "location": ""
-    },
-    {
-      "id": "be912220-4483-489a-a2bd-1094568897d1",
-      "title": "练胸",
-      "day": 1,
-      "start": 720,
-      "end": 780,
       "color": 1,
       "location": ""
     },
@@ -362,291 +281,120 @@
       "location": ""
     },
     {
-      "id": "b462806a-8c45-4d92-9e9f-db3f3543af0a",
-      "title": "2022 P2",
-      "day": 1,
-      "start": 660,
-      "end": 720,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "5b80ed96-2b65-4f81-b06f-8f51aa31279d",
-      "title": "Star Sequence",
-      "day": 1,
-      "start": 900,
-      "end": 1020,
-      "color": 6,
-      "location": "题有问题！！"
-    },
-    {
-      "id": "4cddbbb0-18cb-4508-b571-38d93ecc4d3b",
-      "title": "错题",
-      "day": 1,
+      "id": "a5ede378-9a2a-4bd6-8829-3492c0802b32",
+      "title": "课",
+      "day": 4,
       "start": 1080,
       "end": 1140,
-      "color": 7,
-      "location": ""
-    },
-    {
-      "id": "61824799-3ec3-4605-b110-887936d98244",
-      "title": "刷点化学的题和有机",
-      "day": 2,
-      "start": 960,
-      "end": 1020,
       "color": 6,
       "location": ""
     },
     {
-      "id": "d7eb5a34-a20b-4add-b299-6507fbbbf086",
-      "title": "如果想的话看看书！",
-      "day": 2,
-      "start": 1140,
-      "end": 1200,
-      "color": 7,
-      "location": ""
-    },
-    {
-      "id": "7dda0a7b-caaa-4259-b74c-39548ed1c4b1",
-      "title": "Sequence 作业",
+      "id": "04904296-153e-4d07-ac12-69077f6bbe21",
+      "title": "游泳！！",
       "day": 0,
-      "start": 510,
+      "start": 540,
       "end": 600,
-      "color": 6,
+      "color": 4,
       "location": ""
     },
     {
-      "id": "c7b316c2-b934-4b1b-8439-bb5d10732b65",
-      "title": "2022P1",
+      "id": "2a081028-2173-4eb1-a9b9-4bb8be28f760",
+      "title": "牛街吃饭",
       "day": 0,
       "start": 600,
-      "end": 660,
-      "color": 2,
-      "location": ""
-    },
-    {
-      "id": "f57233cf-d32f-48ee-a59f-76b6affcbdf4",
-      "title": "Mock P1？",
-      "day": 0,
-      "start": 1080,
-      "end": 1140,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "05628190-7f79-43b7-9ff9-5da388d45cf3",
-      "title": "错题整理",
-      "day": 0,
-      "start": 1140,
-      "end": 1200,
-      "color": 3,
-      "location": ""
-    },
-    {
-      "id": "fa62d65c-9700-4498-9dac-ae813fcb8271",
-      "title": "英语？你如果想的话",
-      "day": 1,
-      "start": 1140,
-      "end": 1200,
-      "color": 4,
-      "location": ""
-    },
-    {
-      "id": "9df19338-a0a1-46f7-b257-e62d665f3967",
-      "title": "去背积分表！",
-      "day": 2,
-      "start": 720,
-      "end": 780,
-      "color": 2,
-      "location": ""
-    },
-    {
-      "id": "04db321f-311d-4aec-90e6-da273659de76",
-      "title": "煮格雷格炖饭吃！！",
-      "day": 2,
-      "start": 1080,
-      "end": 1140,
-      "color": 3,
-      "location": ""
-    },
-    {
-      "id": "6bba12a5-a2d5-4ba7-b99e-ebbdd3ebcf95",
-      "title": "如果想的话把经济捡起来点吧",
-      "day": 2,
-      "start": 900,
-      "end": 960,
-      "color": 4,
-      "location": ""
-    },
-    {
-      "id": "2a16a51b-d4df-4414-9e8e-a2151ff86a4b",
-      "title": "高数积分题！",
-      "day": 3,
-      "start": 600,
-      "end": 660,
-      "color": 4,
-      "location": ""
-    },
-    {
-      "id": "b4669cd1-14fb-4ca8-a4eb-40408520cf17",
-      "title": "化学",
-      "day": 3,
-      "start": 1020,
-      "end": 1080,
-      "color": 5,
-      "location": ""
-    },
-    {
-      "id": "bfb1639c-e3c6-4101-bc56-aa36e3112946",
-      "title": "改香港文书",
-      "day": 3,
-      "start": 1080,
-      "end": 1140,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "0579ac1a-e5a4-42d0-abdb-b6abc7d53d80",
-      "title": "这次一定要读上海堡垒！",
-      "day": 3,
-      "start": 1200,
-      "end": 1260,
-      "color": 5,
-      "location": ""
-    },
-    {
-      "id": "238da06e-758f-4220-9176-5f1093460a6c",
-      "title": "我今天没安排啦",
-      "day": 4,
-      "start": 870,
-      "end": 930,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "7059300e-43e5-4a31-bfb9-49974049ab40",
-      "title": "你想的话继续看书吧",
-      "day": 4,
-      "start": 930,
-      "end": 960,
-      "color": 7,
-      "location": ""
-    },
-    {
-      "id": "e201efb3-4e73-4996-9df8-8f898e5098ab",
-      "title": "晚上",
-      "day": 4,
-      "start": 1080,
-      "end": 1140,
-      "color": 7,
-      "location": ""
-    },
-    {
-      "id": "c6a9ec44-88be-45b3-a89e-cccf862b9328",
-      "title": "敬那终究会到来的充满意义的明天",
-      "day": 4,
-      "start": 1140,
-      "end": 1200,
+      "end": 690,
       "color": 1,
       "location": ""
     },
     {
-      "id": "54df5a13-d1d6-4d0c-b218-6df1a9f95929",
-      "title": "飞机",
-      "day": 6,
-      "start": 420,
-      "end": 610,
+      "id": "9f39368c-b418-4228-8b3a-a8c8f81c9142",
+      "title": "骑车从王府井到苹果园！",
+      "day": 0,
+      "start": 720,
+      "end": 920,
+      "color": 2,
+      "location": ""
+    },
+    {
+      "id": "b1d6fb98-008f-4d29-bdce-3b2ec762492c",
+      "title": "吃饭",
+      "day": 0,
+      "start": 930,
+      "end": 990,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "228e9d5f-d043-4ef0-9af6-31a062cf61b6",
+      "title": "看电影",
+      "day": 0,
+      "start": 1000,
+      "end": 1090,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "5108018b-8256-492f-a16c-37b06ddf4bf6",
+      "title": "回王府井！逛逛",
+      "day": 0,
+      "start": 1090,
+      "end": 1200,
       "color": 5,
       "location": ""
     },
     {
-      "id": "38b16801-cc50-4292-bda9-ce948c02e89c",
-      "title": "大概40分钟车程到王府井",
-      "day": 6,
-      "start": 630,
-      "end": 690,
+      "id": "20c295fa-64ac-40f1-91b6-f78666392b33",
+      "title": "回酒店休息啦",
+      "day": 0,
+      "start": 1200,
+      "end": 1260,
       "color": 6,
       "location": ""
     },
     {
-      "id": "7027562f-52eb-401e-bf71-3505e4baba11",
-      "title": "局气/南京大排档",
-      "day": 6,
-      "start": 720,
-      "end": 780,
+      "id": "bad13c82-d414-4deb-9fdc-430f392059d9",
+      "title": "赖床中",
+      "day": 1,
+      "start": 540,
+      "end": 660,
       "color": 7,
       "location": ""
     },
     {
-      "id": "b7bfc925-8a6b-42e3-becc-c3853add2753",
-      "title": "check in？（看顺序吧",
-      "day": 6,
-      "start": 780,
-      "end": 840,
+      "id": "957ede45-66da-41cf-8143-05ff0a721055",
+      "title": "下去吃个饭",
+      "day": 1,
+      "start": 660,
+      "end": 720,
       "color": 0,
       "location": ""
     },
     {
-      "id": "64e362f4-b8ac-46b0-87b4-df9eb5861e61",
-      "title": "什刹海",
-      "day": 6,
-      "start": 840,
-      "end": 960,
+      "id": "713f554e-cb86-4aa6-9fd7-9cba7ed20dc1",
+      "title": "白塔寺/琉璃街",
+      "day": 1,
+      "start": 720,
+      "end": 870,
       "color": 1,
       "location": ""
     },
     {
-      "id": "49ed8b4c-307a-4c20-b877-bee8096f6501",
-      "title": "走走吧",
-      "day": 6,
-      "start": 960,
-      "end": 1020,
+      "id": "79423e62-a881-43e5-bf69-0e4ed0f025b1",
+      "title": "看看有啥想逛的吧",
+      "day": 1,
+      "start": 900,
+      "end": 960,
       "color": 2,
       "location": ""
     },
     {
-      "id": "151ea1e8-077c-40f8-af49-0d19672dfc35",
-      "title": "去南堂！",
-      "day": 6,
-      "start": 1020,
-      "end": 1080,
-      "color": 7,
-      "location": ""
-    },
-    {
-      "id": "1cfa556a-69bc-48b9-9956-b5578495000a",
-      "title": "找地方吃饭",
-      "day": 6,
-      "start": 1080,
-      "end": 1170,
-      "color": 4,
-      "location": ""
-    },
-    {
-      "id": "45aa6ecf-d472-4c0e-839e-7ea8e05e774f",
-      "title": "买小蛋糕～",
-      "day": 6,
-      "start": 1190,
-      "end": 1250,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "844fee5e-fc9a-4da2-ab45-c245050d3b62",
-      "title": "去走走？如果想的话",
-      "day": 6,
-      "start": 1260,
-      "end": 1320,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "22967ce6-55a5-46c1-85c0-dedaa5805603",
-      "title": "继续plan明天吧",
-      "day": 6,
-      "start": 1320,
-      "end": 1380,
-      "color": 7,
+      "id": "1151cf15-3b50-4243-a8b0-05d8af29faf0",
+      "title": "颐和园",
+      "day": 1,
+      "start": 960,
+      "end": 1140,
+      "color": 3,
       "location": ""
     }
   ],
