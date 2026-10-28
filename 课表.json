@@ -2,69 +2,6 @@
   "weekKey": "2026-10-26",
   "events": [
     {
-      "id": "wkb-08",
-      "title": "Chemistry-AL.C.CHE2",
-      "day": 2,
-      "start": 490,
-      "end": 530,
-      "color": 4,
-      "location": "A613 (PEF)"
-    },
-    {
-      "id": "wkb-09",
-      "title": "Chemistry-AL.C.CHE2",
-      "day": 2,
-      "start": 530,
-      "end": 570,
-      "color": 4,
-      "location": "A613 (PEF)"
-    },
-    {
-      "id": "wkb-10",
-      "title": "Mathematics-AL.D.FMA.X",
-      "day": 2,
-      "start": 580,
-      "end": 620,
-      "color": 5,
-      "location": "A416 (ANN)"
-    },
-    {
-      "id": "wkb-11",
-      "title": "Mathematics-AL.D.FMA.X",
-      "day": 2,
-      "start": 620,
-      "end": 660,
-      "color": 5,
-      "location": "A416 (ANN)"
-    },
-    {
-      "id": "wkb-12",
-      "title": "PSHE-A2.Fire3.PSHE",
-      "day": 2,
-      "start": 690,
-      "end": 720,
-      "color": 0,
-      "location": "B333 (MAS)"
-    },
-    {
-      "id": "wkb-13",
-      "title": "English-A2.E.ENG.LIT",
-      "day": 2,
-      "start": 820,
-      "end": 860,
-      "color": 3,
-      "location": "A509 (KAM)"
-    },
-    {
-      "id": "wkb-14",
-      "title": "English-A2.E.ENG.LIT",
-      "day": 2,
-      "start": 860,
-      "end": 900,
-      "color": 3,
-      "location": "A509 (KAM)"
-    },
-    {
       "id": "wkb-17",
       "title": "Economics-AL.F.ECO1",
       "day": 3,
@@ -396,7 +333,88 @@
       "end": 1140,
       "color": 3,
       "location": ""
+    },
+    {
+      "id": "3b4a6c11-6b25-495d-b9c9-6fd67086f665",
+      "title": "孔庙/国子监",
+      "day": 2,
+      "start": 480,
+      "end": 600,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "07b5ef36-55e4-411e-af6d-628960aa44db",
+      "title": "意气风发啊",
+      "day": 2,
+      "start": 600,
+      "end": 660,
+      "color": 1,
+      "location": ""
+    },
+    {
+      "id": "824c7a8d-ee55-4712-8ec2-db5bcfac4d97",
+      "title": "吃饭",
+      "day": 2,
+      "start": 660,
+      "end": 780,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "b886a77a-9feb-4c38-ab52-ff8c4e9fb087",
+      "title": "拼豆逛街！",
+      "day": 2,
+      "start": 840,
+      "end": 960,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "5e9e1a05-60a7-4c3b-aa90-7abfc5c3be0f",
+      "title": "飞机回家咯",
+      "day": 2,
+      "start": 1080,
+      "end": 1350,
+      "color": 1,
+      "location": ""
+    },
+    {
+      "id": "6caf7771-045e-49fd-b4aa-31ebf912b7ff",
+      "title": "死磕一下stat吧，不要太差",
+      "day": 3,
+      "start": 600,
+      "end": 660,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "5aba5569-4ca4-41c4-84e7-92914fb02ea5",
+      "title": "补一下chem",
+      "day": 3,
+      "start": 1020,
+      "end": 1080,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "8ffdba0b-b096-4ed4-8c9d-1b2eeb7bcd5d",
+      "title": "吃饭",
+      "day": 3,
+      "start": 1080,
+      "end": 1140,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "a3d2d3e4-10e2-4f7d-b26e-095d32868d90",
+      "title": "看面试？或者读崩溃边缘",
+      "day": 3,
+      "start": 1200,
+      "end": 1260,
+      "color": 5,
+      "location": ""
     }
   ],
-  "memo": "-敬那终究会到来充满希望的明天！17/10/26 TOKEN\n-每天记得读早报！！））不要焦虑ucas...我已经尽力\n-我期待的就是那不可知的未来，期待的事在那不确定的未来里狠狠的对那不可抗拒的未来狠狠的竖中指，并大喊一句操你妈！那么只要有明天，一切都会有意义，所有请务必期待着未来，期待着所有明天。这样我们每天所做的一切都是有意义的，咬着责任的意义就是在对命运大骂着“操你妈的destiny”\n-我的梦！！！要感动哭了...在备忘录和小号里了！爱\n-每次看到你的责任（我家栗！）就有动力学了！！！\n-鲲鹏大小姐在电脑里！有事没事都找她玩玩，不要太累了～记得爱自己"
+  "memo": "-敬那终究会到来充满希望的明天！17/10/26 TOKEN\n-Morse拿下！\n-我期待的就是那不可知的未来，期待的事在那不确定的未来里狠狠的对那不可抗拒的未来狠狠的竖中指，并大喊一句操你妈！那么只要有明天，一切都会有意义，所有请务必期待着未来，期待着所有明天。这样我们每天所做的一切都是有意义的，咬着责任的意义就是在对命运大骂着“操你妈的destiny”\n-我的梦！！！要感动哭了...在备忘录和小号里了！爱\n-每次看到你的责任（我家栗！）就有动力学了！！！\n-鲲鹏大小姐在电脑里！有事没事都找她玩玩，不要太累了～记得爱自己"
 }
