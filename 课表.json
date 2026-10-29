@@ -110,15 +110,6 @@
       "location": "A219 (ROM)"
     },
     {
-      "id": "wkb-31",
-      "title": "SCIE Fitness Club (Students gym)",
-      "day": 4,
-      "start": 1000,
-      "end": 1050,
-      "color": 1,
-      "location": "RYA"
-    },
-    {
       "id": "639f9df5-2b75-4ed9-8449-93cb17b9ee15",
       "title": "写新的周表！发tonken",
       "day": 6,
@@ -185,8 +176,8 @@
       "id": "41cdc86c-eb2c-4142-b1e0-22b7e4d7866a",
       "title": "练背/肩/核心",
       "day": 4,
-      "start": 780,
-      "end": 840,
+      "start": 820,
+      "end": 880,
       "color": 1,
       "location": ""
     },
@@ -215,15 +206,6 @@
       "start": 570,
       "end": 1080,
       "color": 2,
-      "location": ""
-    },
-    {
-      "id": "a5ede378-9a2a-4bd6-8829-3492c0802b32",
-      "title": "课",
-      "day": 4,
-      "start": 1080,
-      "end": 1140,
-      "color": 6,
       "location": ""
     },
     {
@@ -413,6 +395,33 @@
       "start": 1200,
       "end": 1260,
       "color": 5,
+      "location": ""
+    },
+    {
+      "id": "a0cafef3-814c-4cc3-95b5-cb1f1c14bdfc",
+      "title": "文书",
+      "day": 4,
+      "start": 900,
+      "end": 960,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "6e717b00-0311-4f81-aa38-fbd406f149bb",
+      "title": "化学",
+      "day": 4,
+      "start": 990,
+      "end": 1080,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "3aed5abc-643e-4d82-8a0a-73d7c0c16080",
+      "title": "休息吧",
+      "day": 4,
+      "start": 1140,
+      "end": 1200,
+      "color": 6,
       "location": ""
     }
   ],
