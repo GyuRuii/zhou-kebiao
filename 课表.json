@@ -1,8 +1,8 @@
 {
-  "weekKey": "2026-10-26",
+  "weekKey": "2026-11-02",
   "events": [
     {
-      "id": "wkb-17",
+      "id": "89dde066-3a5e-4472-a751-3ba5d0123fe3",
       "title": "Economics-AL.F.ECO1",
       "day": 3,
       "start": 490,
@@ -11,7 +11,7 @@
       "location": "A219 (ROM)"
     },
     {
-      "id": "wkb-18",
+      "id": "0b5c93ef-4f3a-485a-80cf-84c66427e0a5",
       "title": "Economics-AL.F.ECO1",
       "day": 3,
       "start": 530,
@@ -20,7 +20,7 @@
       "location": "A219 (ROM)"
     },
     {
-      "id": "wkb-21",
+      "id": "c3a6fda5-07e1-4e25-b160-78c78f0cb743",
       "title": "Mathematics-AL.D.FMA.X",
       "day": 3,
       "start": 680,
@@ -29,7 +29,7 @@
       "location": "A416 (JoS)"
     },
     {
-      "id": "wkb-22",
+      "id": "723bbbcf-bd9a-4fee-b179-e8efa95c3d5d",
       "title": "Mathematics-AL.D.FMA.X",
       "day": 3,
       "start": 720,
@@ -38,7 +38,7 @@
       "location": "A416 (JoS)"
     },
     {
-      "id": "wkb-23",
+      "id": "c1f790f1-946b-4ed1-aead-603e7261f716",
       "title": "Chemistry-AL.C.CHE2",
       "day": 3,
       "start": 910,
@@ -47,7 +47,7 @@
       "location": "B814 (PEF)"
     },
     {
-      "id": "wkb-24",
+      "id": "e50586d7-50c7-4b01-8d9f-9a0a51feff6b",
       "title": "Chemistry-AL.C.CHE2",
       "day": 3,
       "start": 950,
@@ -56,7 +56,7 @@
       "location": "B814 (PEF)"
     },
     {
-      "id": "wkb-25",
+      "id": "c5163e1c-3c9e-4ba8-875c-0bc5e805532c",
       "title": "Mathematics-AL.D.FMA.X",
       "day": 4,
       "start": 490,
@@ -65,7 +65,7 @@
       "location": "A416 (ANN)"
     },
     {
-      "id": "wkb-26",
+      "id": "bb5a1a83-54db-4033-9ea6-d5a78f86c53b",
       "title": "Mathematics-AL.D.FMA.X",
       "day": 4,
       "start": 530,
@@ -74,7 +74,7 @@
       "location": "A416 (ANN)"
     },
     {
-      "id": "wkb-27",
+      "id": "0938e94b-1bd1-4eba-a4e3-b45d4680c7ef",
       "title": "English-A2.E.ENG.LIT",
       "day": 4,
       "start": 580,
@@ -83,7 +83,7 @@
       "location": "A505 (KAM)"
     },
     {
-      "id": "wkb-28",
+      "id": "bd2c4305-5219-484a-a52f-5214c4937618",
       "title": "English-A2.E.ENG.LIT",
       "day": 4,
       "start": 620,
@@ -92,7 +92,7 @@
       "location": "A505 (KAM)"
     },
     {
-      "id": "wkb-29",
+      "id": "e9b44e0c-ad9d-4999-8b4b-585d349185aa",
       "title": "Economics-AL.F.ECO1",
       "day": 4,
       "start": 680,
@@ -101,7 +101,7 @@
       "location": "A219 (ROM)"
     },
     {
-      "id": "wkb-30",
+      "id": "62126bf0-5bca-4e10-9bc4-94d1a3b890c8",
       "title": "Economics-AL.F.ECO1",
       "day": 4,
       "start": 720,
@@ -110,7 +110,7 @@
       "location": "A219 (ROM)"
     },
     {
-      "id": "639f9df5-2b75-4ed9-8449-93cb17b9ee15",
+      "id": "11a0e37a-9edf-4552-8d98-25c11dcdf4fd",
       "title": "写新的周表！发tonken",
       "day": 6,
       "start": 1200,
@@ -119,7 +119,7 @@
       "location": "发新的token"
     },
     {
-      "id": "4ad487fc-a640-4f50-aca3-3c297369f5ed",
+      "id": "f113f499-2f3e-4f19-8302-628b386e44b5",
       "title": "加油～新的一周",
       "day": 0,
       "start": 420,
@@ -128,7 +128,7 @@
       "location": ""
     },
     {
-      "id": "7a402e6c-259c-4fb4-91bf-44b1f962c53c",
+      "id": "677754e0-ddc8-4276-b4dc-ca674353f34f",
       "title": "练腿",
       "day": 3,
       "start": 780,
@@ -137,7 +137,7 @@
       "location": ""
     },
     {
-      "id": "0c5af1a8-3898-4b2a-b36f-45491f8c8968",
+      "id": "2e1e1930-d731-43b1-b75a-83df82e2c282",
       "title": "改日程！！",
       "day": 2,
       "start": 1260,
@@ -146,7 +146,7 @@
       "location": ""
     },
     {
-      "id": "9281771d-3b79-4fac-956d-bc48b71931b8",
+      "id": "eaf4d783-a03b-4240-a440-be69fbdc08ad",
       "title": "改日程！！",
       "day": 3,
       "start": 1260,
@@ -155,7 +155,7 @@
       "location": ""
     },
     {
-      "id": "659d8a97-c054-4cdf-8051-d8fc836869e3",
+      "id": "603d222b-13bb-4e4a-951e-7d14adb4ad93",
       "title": "改日程",
       "day": 4,
       "start": 1260,
@@ -164,7 +164,7 @@
       "location": ""
     },
     {
-      "id": "d8f79a09-782f-44ae-88fa-be1d450987b5",
+      "id": "eb3fb1ff-70b1-433a-ad39-8b478d996ed1",
       "title": "改日程",
       "day": 5,
       "start": 1260,
@@ -173,7 +173,7 @@
       "location": ""
     },
     {
-      "id": "41cdc86c-eb2c-4142-b1e0-22b7e4d7866a",
+      "id": "9c1153a9-f411-4da4-8ce2-293ba900effa",
       "title": "练背/肩/核心",
       "day": 4,
       "start": 820,
@@ -182,7 +182,7 @@
       "location": ""
     },
     {
-      "id": "a0dd4f8d-03cf-4a59-b94e-43a8dd90ef4e",
+      "id": "d38670b6-7de9-4cdd-8f54-70243be99e88",
       "title": "改日程",
       "day": 1,
       "start": 1260,
@@ -191,7 +191,7 @@
       "location": ""
     },
     {
-      "id": "4023118a-5443-418f-aef2-7756fc4604f6",
+      "id": "65c15d31-034f-4fd6-91ab-c9ae0fc5548e",
       "title": "改日程",
       "day": 0,
       "start": 1260,
@@ -200,7 +200,7 @@
       "location": ""
     },
     {
-      "id": "35996342-590a-42a0-9c2e-5bb3bd2243cc",
+      "id": "0bb4ef4b-cc80-4663-b49a-f628bcf9264b",
       "title": "上班！",
       "day": 5,
       "start": 570,
@@ -209,115 +209,7 @@
       "location": ""
     },
     {
-      "id": "04904296-153e-4d07-ac12-69077f6bbe21",
-      "title": "游泳！！",
-      "day": 0,
-      "start": 540,
-      "end": 600,
-      "color": 4,
-      "location": ""
-    },
-    {
-      "id": "2a081028-2173-4eb1-a9b9-4bb8be28f760",
-      "title": "牛街吃饭",
-      "day": 0,
-      "start": 600,
-      "end": 690,
-      "color": 1,
-      "location": ""
-    },
-    {
-      "id": "9f39368c-b418-4228-8b3a-a8c8f81c9142",
-      "title": "骑车从王府井到苹果园！",
-      "day": 0,
-      "start": 720,
-      "end": 920,
-      "color": 2,
-      "location": ""
-    },
-    {
-      "id": "b1d6fb98-008f-4d29-bdce-3b2ec762492c",
-      "title": "吃饭",
-      "day": 0,
-      "start": 930,
-      "end": 990,
-      "color": 3,
-      "location": ""
-    },
-    {
-      "id": "228e9d5f-d043-4ef0-9af6-31a062cf61b6",
-      "title": "看电影",
-      "day": 0,
-      "start": 1000,
-      "end": 1090,
-      "color": 4,
-      "location": ""
-    },
-    {
-      "id": "5108018b-8256-492f-a16c-37b06ddf4bf6",
-      "title": "回王府井！逛逛",
-      "day": 0,
-      "start": 1090,
-      "end": 1200,
-      "color": 5,
-      "location": ""
-    },
-    {
-      "id": "20c295fa-64ac-40f1-91b6-f78666392b33",
-      "title": "回酒店休息啦",
-      "day": 0,
-      "start": 1200,
-      "end": 1260,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "bad13c82-d414-4deb-9fdc-430f392059d9",
-      "title": "赖床中",
-      "day": 1,
-      "start": 540,
-      "end": 660,
-      "color": 7,
-      "location": ""
-    },
-    {
-      "id": "957ede45-66da-41cf-8143-05ff0a721055",
-      "title": "下去吃个饭",
-      "day": 1,
-      "start": 660,
-      "end": 720,
-      "color": 0,
-      "location": ""
-    },
-    {
-      "id": "713f554e-cb86-4aa6-9fd7-9cba7ed20dc1",
-      "title": "白塔寺/琉璃街",
-      "day": 1,
-      "start": 720,
-      "end": 870,
-      "color": 1,
-      "location": ""
-    },
-    {
-      "id": "79423e62-a881-43e5-bf69-0e4ed0f025b1",
-      "title": "看看有啥想逛的吧",
-      "day": 1,
-      "start": 900,
-      "end": 960,
-      "color": 2,
-      "location": ""
-    },
-    {
-      "id": "1151cf15-3b50-4243-a8b0-05d8af29faf0",
-      "title": "颐和园",
-      "day": 1,
-      "start": 960,
-      "end": 1140,
-      "color": 3,
-      "location": ""
-    },
-    {
-      "id": "3b4a6c11-6b25-495d-b9c9-6fd67086f665",
+      "id": "73463a65-331d-4a86-9372-8d45b71a7a6f",
       "title": "孔庙/国子监",
       "day": 2,
       "start": 480,
@@ -326,7 +218,7 @@
       "location": ""
     },
     {
-      "id": "07b5ef36-55e4-411e-af6d-628960aa44db",
+      "id": "c161687a-f518-444a-bc52-346532387222",
       "title": "意气风发啊",
       "day": 2,
       "start": 600,
@@ -335,7 +227,7 @@
       "location": ""
     },
     {
-      "id": "824c7a8d-ee55-4712-8ec2-db5bcfac4d97",
+      "id": "3e4b47fb-efc9-47c4-813f-f299f33af6fe",
       "title": "吃饭",
       "day": 2,
       "start": 660,
@@ -344,7 +236,7 @@
       "location": ""
     },
     {
-      "id": "b886a77a-9feb-4c38-ab52-ff8c4e9fb087",
+      "id": "d992d2b0-70c0-4899-bce2-4a4841b38946",
       "title": "拼豆逛街！",
       "day": 2,
       "start": 840,
@@ -353,7 +245,7 @@
       "location": ""
     },
     {
-      "id": "5e9e1a05-60a7-4c3b-aa90-7abfc5c3be0f",
+      "id": "92490de0-71de-4053-8384-9aa8de0cf261",
       "title": "飞机回家咯",
       "day": 2,
       "start": 1080,
@@ -362,7 +254,7 @@
       "location": ""
     },
     {
-      "id": "6caf7771-045e-49fd-b4aa-31ebf912b7ff",
+      "id": "e9f13328-28d9-4c51-9515-0bee153fd3f7",
       "title": "死磕一下stat吧，不要太差",
       "day": 3,
       "start": 600,
@@ -371,7 +263,7 @@
       "location": ""
     },
     {
-      "id": "5aba5569-4ca4-41c4-84e7-92914fb02ea5",
+      "id": "7141e0be-7c35-493d-81d9-9b96478bb25c",
       "title": "补一下chem",
       "day": 3,
       "start": 1020,
@@ -380,7 +272,7 @@
       "location": ""
     },
     {
-      "id": "8ffdba0b-b096-4ed4-8c9d-1b2eeb7bcd5d",
+      "id": "bc36a9fa-2aa5-43d1-8a52-b4fab8189aea",
       "title": "吃饭",
       "day": 3,
       "start": 1080,
@@ -389,7 +281,7 @@
       "location": ""
     },
     {
-      "id": "a3d2d3e4-10e2-4f7d-b26e-095d32868d90",
+      "id": "38152e79-f25f-4d19-be2f-29538b56d4cf",
       "title": "看面试？或者读崩溃边缘",
       "day": 3,
       "start": 1200,
@@ -398,7 +290,7 @@
       "location": ""
     },
     {
-      "id": "a0cafef3-814c-4cc3-95b5-cb1f1c14bdfc",
+      "id": "ba6d1b59-d04d-43d9-b8d3-750e5f277e91",
       "title": "文书",
       "day": 4,
       "start": 900,
@@ -407,7 +299,7 @@
       "location": ""
     },
     {
-      "id": "6e717b00-0311-4f81-aa38-fbd406f149bb",
+      "id": "c1b8463d-db98-4e38-9d1f-1baf25f5a979",
       "title": "化学",
       "day": 4,
       "start": 990,
@@ -416,12 +308,111 @@
       "location": ""
     },
     {
-      "id": "3aed5abc-643e-4d82-8a0a-73d7c0c16080",
+      "id": "7cbf5966-0a24-4b5b-9999-867b2a953de9",
       "title": "休息吧",
       "day": 4,
       "start": 1140,
       "end": 1200,
       "color": 6,
+      "location": ""
+    },
+    {
+      "id": "a02362f8-de32-457f-aaed-281fcb8ccb36",
+      "title": "日程表加早饭时间～",
+      "day": 0,
+      "start": 480,
+      "end": 570,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "23b334ce-19a9-48ff-9310-5c6da16553c2",
+      "title": "秋-高数课",
+      "day": 0,
+      "start": 600,
+      "end": 720,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "d8d5ab9e-35b9-4e46-afc0-66d46e53028f",
+      "title": "吃午饭！",
+      "day": 0,
+      "start": 720,
+      "end": 740,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "0bd5a919-986b-4588-99e0-e1e4255f36f1",
+      "title": "练背",
+      "day": 0,
+      "start": 740,
+      "end": 800,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "5ff5588f-dd7b-48b9-b89c-2eb6deccaeb9",
+      "title": "form",
+      "day": 0,
+      "start": 800,
+      "end": 810,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "e2a167dc-a0d4-42d9-b545-3cb892a9e96a",
+      "title": "Chem",
+      "day": 0,
+      "start": 820,
+      "end": 900,
+      "color": 0,
+      "location": ""
+    },
+    {
+      "id": "89040b58-d08c-42ea-9fa6-5f55a86a087e",
+      "title": "Further",
+      "day": 0,
+      "start": 910,
+      "end": 990,
+      "color": 1,
+      "location": ""
+    },
+    {
+      "id": "7402b877-3031-4c37-88db-60f55feb5049",
+      "title": "练高数题！",
+      "day": 0,
+      "start": 1020,
+      "end": 1080,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "9cb8733f-b335-4606-8240-8873183e0eb9",
+      "title": "复习一下化学！！",
+      "day": 0,
+      "start": 1140,
+      "end": 1170,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "40ab5a04-bd67-4ae8-a758-ecb07d0dae18",
+      "title": "复习一下面试知识",
+      "day": 0,
+      "start": 1170,
+      "end": 1200,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "69884357-6bd0-4670-bccd-c0634a41f8ef",
+      "title": "找他们约摸面吧",
+      "day": 0,
+      "start": 1200,
+      "end": 1230,
+      "color": 5,
       "location": ""
     }
   ],
