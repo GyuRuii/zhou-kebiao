@@ -209,51 +209,6 @@
       "location": ""
     },
     {
-      "id": "73463a65-331d-4a86-9372-8d45b71a7a6f",
-      "title": "孔庙/国子监",
-      "day": 2,
-      "start": 480,
-      "end": 600,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "c161687a-f518-444a-bc52-346532387222",
-      "title": "意气风发啊",
-      "day": 2,
-      "start": 600,
-      "end": 660,
-      "color": 1,
-      "location": ""
-    },
-    {
-      "id": "3e4b47fb-efc9-47c4-813f-f299f33af6fe",
-      "title": "吃饭",
-      "day": 2,
-      "start": 660,
-      "end": 780,
-      "color": 3,
-      "location": ""
-    },
-    {
-      "id": "d992d2b0-70c0-4899-bce2-4a4841b38946",
-      "title": "拼豆逛街！",
-      "day": 2,
-      "start": 840,
-      "end": 960,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "92490de0-71de-4053-8384-9aa8de0cf261",
-      "title": "飞机回家咯",
-      "day": 2,
-      "start": 1080,
-      "end": 1350,
-      "color": 1,
-      "location": ""
-    },
-    {
       "id": "e9f13328-28d9-4c51-9515-0bee153fd3f7",
       "title": "死磕一下stat吧，不要太差",
       "day": 3,
@@ -494,6 +449,69 @@
       "start": 1200,
       "end": 1260,
       "color": 6,
+      "location": ""
+    },
+    {
+      "id": "68b6796a-b1dd-4529-bb2f-be43f75b58e8",
+      "title": "Chem",
+      "day": 2,
+      "start": 490,
+      "end": 570,
+      "color": 2,
+      "location": ""
+    },
+    {
+      "id": "40c90d45-0f9e-40f6-93d9-a414a5754b52",
+      "title": "FurtherMath",
+      "day": 2,
+      "start": 580,
+      "end": 660,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "0232b960-9c38-42d6-a96a-546a167bf441",
+      "title": "PSHE",
+      "day": 2,
+      "start": 680,
+      "end": 720,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "0b9b4e95-048f-4a81-8ca5-48583bb661c5",
+      "title": "English",
+      "day": 2,
+      "start": 820,
+      "end": 900,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "02a14878-a51b-475a-8f84-7134ddbcc5d3",
+      "title": "文书！！（确保CUHK可以，然后问Mr Gollin能不能交",
+      "day": 2,
+      "start": 940,
+      "end": 990,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "d9e05301-6a29-4a90-84fb-9ccb56ef0ae6",
+      "title": "继续刷高数！",
+      "day": 2,
+      "start": 1020,
+      "end": 1080,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "a68b0540-7c3c-4a88-bcf4-f57710507829",
+      "title": "读一下书吧，吃完饭",
+      "day": 2,
+      "start": 1120,
+      "end": 1180,
+      "color": 0,
       "location": ""
     }
   ],
