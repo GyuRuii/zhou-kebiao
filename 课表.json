@@ -128,15 +128,6 @@
       "location": ""
     },
     {
-      "id": "677754e0-ddc8-4276-b4dc-ca674353f34f",
-      "title": "练腿",
-      "day": 3,
-      "start": 780,
-      "end": 900,
-      "color": 1,
-      "location": ""
-    },
-    {
       "id": "2e1e1930-d731-43b1-b75a-83df82e2c282",
       "title": "改日程！！",
       "day": 2,
@@ -218,30 +209,12 @@
       "location": ""
     },
     {
-      "id": "7141e0be-7c35-493d-81d9-9b96478bb25c",
-      "title": "补一下chem",
-      "day": 3,
-      "start": 1020,
-      "end": 1080,
-      "color": 3,
-      "location": ""
-    },
-    {
       "id": "bc36a9fa-2aa5-43d1-8a52-b4fab8189aea",
       "title": "吃饭",
       "day": 3,
       "start": 1080,
       "end": 1140,
       "color": 4,
-      "location": ""
-    },
-    {
-      "id": "38152e79-f25f-4d19-be2f-29538b56d4cf",
-      "title": "看面试？或者读崩溃边缘",
-      "day": 3,
-      "start": 1200,
-      "end": 1260,
-      "color": 5,
       "location": ""
     },
     {
@@ -512,6 +485,33 @@
       "start": 1120,
       "end": 1180,
       "color": 0,
+      "location": ""
+    },
+    {
+      "id": "d0ad3126-1d30-4185-951f-eca4d70db7a6",
+      "title": "Mock interview with男神",
+      "day": 3,
+      "start": 810,
+      "end": 850,
+      "color": 0,
+      "location": ""
+    },
+    {
+      "id": "5ecae8d1-b981-4c66-905e-5071425a63bb",
+      "title": "再复习一下上课学的",
+      "day": 3,
+      "start": 1020,
+      "end": 1080,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "e6bb8106-b182-46de-9fc9-0d7b538c5f50",
+      "title": "只用写两道Stat题",
+      "day": 3,
+      "start": 1140,
+      "end": 1200,
+      "color": 7,
       "location": ""
     }
   ],
