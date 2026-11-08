@@ -164,15 +164,6 @@
       "location": ""
     },
     {
-      "id": "9c1153a9-f411-4da4-8ce2-293ba900effa",
-      "title": "练背/肩/核心",
-      "day": 4,
-      "start": 820,
-      "end": 880,
-      "color": 1,
-      "location": ""
-    },
-    {
       "id": "d38670b6-7de9-4cdd-8f54-70243be99e88",
       "title": "改日程",
       "day": 1,
@@ -215,24 +206,6 @@
       "start": 1080,
       "end": 1140,
       "color": 4,
-      "location": ""
-    },
-    {
-      "id": "ba6d1b59-d04d-43d9-b8d3-750e5f277e91",
-      "title": "文书",
-      "day": 4,
-      "start": 900,
-      "end": 960,
-      "color": 6,
-      "location": ""
-    },
-    {
-      "id": "c1b8463d-db98-4e38-9d1f-1baf25f5a979",
-      "title": "化学",
-      "day": 4,
-      "start": 990,
-      "end": 1080,
-      "color": 5,
       "location": ""
     },
     {
@@ -512,6 +485,15 @@
       "start": 1140,
       "end": 1200,
       "color": 7,
+      "location": ""
+    },
+    {
+      "id": "e75d198a-4ac1-41f8-b721-6e3b7e4cb6b3",
+      "title": "把Coutnot Game 搞定！",
+      "day": 5,
+      "start": 600,
+      "end": 690,
+      "color": 1,
       "location": ""
     }
   ],
