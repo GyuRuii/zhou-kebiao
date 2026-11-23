@@ -1,8 +1,8 @@
 {
-  "weekKey": "2026-11-16",
+  "weekKey": "2026-11-23",
   "events": [
     {
-      "id": "b1d992b6-3c1a-440d-af53-e8c9cc392bf5",
+      "id": "99397ccb-c9a4-49ad-8fe3-0d756f714de8",
       "title": "写新的周表！发tonken",
       "day": 6,
       "start": 1200,
@@ -11,7 +11,7 @@
       "location": "发新的token"
     },
     {
-      "id": "245ea7da-b87f-4147-8cdd-840166c03919",
+      "id": "d1959782-d1d0-43b7-800a-aec8d71bdcf9",
       "title": "加油～新的一周",
       "day": 0,
       "start": 420,
@@ -20,7 +20,7 @@
       "location": ""
     },
     {
-      "id": "33308e0b-ac33-41c1-988b-589bcfc89bc0",
+      "id": "d8de6e0e-01dd-422d-b53b-0d628e86638c",
       "title": "改日程！！",
       "day": 2,
       "start": 1260,
@@ -29,7 +29,7 @@
       "location": ""
     },
     {
-      "id": "2e15da3e-ea35-4a32-a2a4-490cf2a17ba5",
+      "id": "8cdf4d66-06bb-4e72-b639-85107323bbe3",
       "title": "改日程！！",
       "day": 3,
       "start": 1260,
@@ -38,7 +38,7 @@
       "location": ""
     },
     {
-      "id": "994848df-bc7e-4026-bdd3-f53def552cdc",
+      "id": "d47e9d9d-b380-4b46-a4a7-70fccd5953b0",
       "title": "改日程",
       "day": 4,
       "start": 1260,
@@ -47,7 +47,7 @@
       "location": ""
     },
     {
-      "id": "969c5373-701b-4b6c-92d2-a9c93e5216a0",
+      "id": "0f04052b-1dc7-49da-bfcb-f01baddadeb2",
       "title": "改日程",
       "day": 5,
       "start": 1260,
@@ -56,7 +56,7 @@
       "location": ""
     },
     {
-      "id": "2362032b-8f6d-4233-ab08-9fff4bb46688",
+      "id": "49c23715-53e1-4b64-87a7-81ebb19ee26f",
       "title": "改日程",
       "day": 1,
       "start": 1260,
@@ -65,7 +65,7 @@
       "location": ""
     },
     {
-      "id": "48917c8a-ba74-4529-9dbe-2b3997c0eee3",
+      "id": "32f24b1a-b088-4357-a43a-9f10e4cf432e",
       "title": "改日程",
       "day": 0,
       "start": 1260,
@@ -74,7 +74,7 @@
       "location": ""
     },
     {
-      "id": "3ccbe6d9-b005-4021-82e7-b0c50899a8fa",
+      "id": "d043cded-0a44-4632-83b6-6f277cdb49f4",
       "title": "上班！",
       "day": 5,
       "start": 570,
@@ -83,7 +83,7 @@
       "location": ""
     },
     {
-      "id": "36afef20-2125-4680-b3da-8abc71af0a06",
+      "id": "95ee6256-8d52-4e87-8de7-fe0e5125fdb7",
       "title": "休息吧",
       "day": 4,
       "start": 1140,
@@ -92,7 +92,7 @@
       "location": ""
     },
     {
-      "id": "06530e09-6f7a-42e5-b41c-18c34d76bece",
+      "id": "e9a4ff02-299f-4cff-849a-49d4749214c4",
       "title": "吃午饭！",
       "day": 0,
       "start": 710,
@@ -101,43 +101,16 @@
       "location": ""
     },
     {
-      "id": "39f91a41-61b8-498c-be9d-eea49a29df35",
-      "title": "练背",
+      "id": "fe51bb35-82e1-470d-9e74-a777e26aa1f8",
+      "title": "秋",
       "day": 0,
-      "start": 540,
-      "end": 690,
+      "start": 600,
+      "end": 720,
       "color": 6,
       "location": ""
     },
     {
-      "id": "508cc357-c19a-492e-8807-a94cb3645da3",
-      "title": "复习一下化学！！",
-      "day": 0,
-      "start": 1140,
-      "end": 1170,
-      "color": 7,
-      "location": ""
-    },
-    {
-      "id": "a8634556-f1e2-4dc4-be97-f3c1fa4b916c",
-      "title": "复习一下面试知识",
-      "day": 0,
-      "start": 1170,
-      "end": 1200,
-      "color": 4,
-      "location": ""
-    },
-    {
-      "id": "9c21ddab-56ce-4668-b21d-e06336d2e185",
-      "title": "找他们约摸面吧",
-      "day": 0,
-      "start": 1200,
-      "end": 1230,
-      "color": 5,
-      "location": ""
-    },
-    {
-      "id": "34c227bd-1465-411e-8f80-10b40dcce173",
+      "id": "55772e62-6eeb-4422-8b51-037132b55981",
       "title": "做好这些就行了，你很棒了",
       "day": 1,
       "start": 1200,
@@ -146,25 +119,16 @@
       "location": ""
     },
     {
-      "id": "61986542-2431-4c33-a569-00d4111380b3",
-      "title": "放假呢！啥都没干",
+      "id": "695efdb3-1f54-4c1e-a5ee-1a66925d03b7",
+      "title": "练背",
       "day": 0,
       "start": 750,
-      "end": 960,
+      "end": 810,
       "color": 1,
       "location": ""
     },
     {
-      "id": "d273f448-ac37-4a57-b5a0-53398aa0f39c",
-      "title": "tmua 7.3拿下",
-      "day": 0,
-      "start": 990,
-      "end": 1080,
-      "color": 2,
-      "location": ""
-    },
-    {
-      "id": "b4260a07-8a81-4601-bb53-b3309c7d2bea",
+      "id": "73bb4aaf-b51f-46a8-a0b2-8373293c78c3",
       "title": "放假！！！",
       "day": 1,
       "start": 530,
@@ -173,7 +137,7 @@
       "location": ""
     },
     {
-      "id": "183ba117-46e9-4b91-8161-518a475e18fd",
+      "id": "3848e4bb-b85f-4a95-aae8-ad876cfcd566",
       "title": "我真的放假这天干啥都忘啦",
       "day": 2,
       "start": 540,
@@ -182,7 +146,7 @@
       "location": ""
     },
     {
-      "id": "205e9f39-a299-48fe-b697-a145aa97b6b8",
+      "id": "01ae81a4-e08d-4df2-a87f-5509c5a4cca5",
       "title": "爬白云山",
       "day": 3,
       "start": 510,
@@ -191,7 +155,7 @@
       "location": ""
     },
     {
-      "id": "aa53d6aa-cd6f-44ba-b9e7-547c7b120cbb",
+      "id": "5b26d0a0-4fc4-4979-88aa-a401860917ce",
       "title": "北京路！！寿司郎～",
       "day": 2,
       "start": 960,
@@ -200,7 +164,7 @@
       "location": ""
     },
     {
-      "id": "9e3c6eb5-797d-43eb-9d5f-f96805f669a4",
+      "id": "ca1b81b3-0029-4494-b3e4-804c65a69d64",
       "title": "放空。。",
       "day": 3,
       "start": 780,
@@ -209,7 +173,7 @@
       "location": ""
     },
     {
-      "id": "bf239056-22ad-4930-8042-c5de47dd6ebe",
+      "id": "d867ef19-1a26-4b96-b8b4-64e325f68059",
       "title": "脑子也在放空，，",
       "day": 4,
       "start": 480,
@@ -218,7 +182,7 @@
       "location": ""
     },
     {
-      "id": "10416ad0-e2f3-4d7f-bc0f-d0caafd5a888",
+      "id": "986d1811-38ff-43d7-a634-4eb6455ab144",
       "title": "拿到面邀啦",
       "day": 4,
       "start": 1080,
@@ -227,7 +191,7 @@
       "location": ""
     },
     {
-      "id": "a4c0ed86-9cfd-48a1-b8e4-9ee76ab6dbe1",
+      "id": "5ef14a17-ee70-4e14-92d4-efcf8da2bd86",
       "title": "回深圳！",
       "day": 5,
       "start": 480,
@@ -236,7 +200,7 @@
       "location": ""
     },
     {
-      "id": "1813b6c2-43c3-48e1-a595-fa7e698ecd94",
+      "id": "a53573bc-8508-491d-a890-62dff0b40409",
       "title": "FURTHER MATH",
       "day": 6,
       "start": 490,
@@ -245,7 +209,7 @@
       "location": ""
     },
     {
-      "id": "5d889a60-eb25-486a-997c-54aa23f7a812",
+      "id": "2039efef-7873-40b2-a52f-0660505fdc61",
       "title": "Lit English",
       "day": 6,
       "start": 580,
@@ -254,7 +218,7 @@
       "location": ""
     },
     {
-      "id": "97d366ef-6e1c-4af9-ab29-bb2e0442059b",
+      "id": "568eef5b-220d-4780-8859-af5f71f8e154",
       "title": "ECON",
       "day": 6,
       "start": 680,
@@ -263,7 +227,7 @@
       "location": ""
     },
     {
-      "id": "832983f3-494f-467e-b6ad-f1053d562e04",
+      "id": "37408afa-e0da-4b28-9977-5c8bce40d4fa",
       "title": "给我去看CHEM半个钟",
       "day": 6,
       "start": 840,
@@ -272,7 +236,7 @@
       "location": ""
     },
     {
-      "id": "19e83001-5d51-41ee-b7ee-2903f2e03851",
+      "id": "ef818f9e-e4aa-4ef8-ba22-da543917bd1b",
       "title": "刷1个小时高数",
       "day": 6,
       "start": 900,
@@ -281,7 +245,7 @@
       "location": ""
     },
     {
-      "id": "cc2e810c-902c-4a26-862f-8088dbb18245",
+      "id": "3717ea59-8240-4546-bee1-a0a46c756bea",
       "title": "做饭",
       "day": 6,
       "start": 960,
@@ -290,7 +254,7 @@
       "location": ""
     },
     {
-      "id": "e3739119-dc61-4c08-9edf-f5709e5bf4b9",
+      "id": "6c7f1013-f8d5-46e2-9488-fe4217563e57",
       "title": "仔细看文书和准备面试！",
       "day": 6,
       "start": 1080,
@@ -299,12 +263,84 @@
       "location": ""
     },
     {
-      "id": "534eb97b-cb14-4aac-a8be-a083aad7ab5f",
+      "id": "b0da9965-9312-4990-b620-1ab15e945756",
       "title": "模面",
       "day": 5,
       "start": 1300,
       "end": 1360,
       "color": 1,
+      "location": ""
+    },
+    {
+      "id": "0851d2f7-7c93-47f3-88b3-07897018b233",
+      "title": "PSHE",
+      "day": 0,
+      "start": 810,
+      "end": 820,
+      "color": 2,
+      "location": ""
+    },
+    {
+      "id": "ac2c1017-edc0-4213-b517-3b2735297d46",
+      "title": "CHEM",
+      "day": 0,
+      "start": 820,
+      "end": 900,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "764cdcb3-c3a7-4784-995d-77a09369d581",
+      "title": "FURTHER MATH",
+      "day": 0,
+      "start": 910,
+      "end": 990,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "8034644a-ba08-49ff-8372-61aa9beaa1a6",
+      "title": "过一题！",
+      "day": 0,
+      "start": 1010,
+      "end": 1070,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "80a61da6-2a9e-41e9-8817-cd3503c40b3c",
+      "title": "记得吃早饭",
+      "day": 0,
+      "start": 480,
+      "end": 540,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "5fd2c737-6d15-47d2-9974-3b6f10a0b007",
+      "title": "Joyma面试",
+      "day": 0,
+      "start": 1140,
+      "end": 1200,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "a6ff7362-6aed-48cd-96c6-ec568a0bc66a",
+      "title": "面完复盘一下",
+      "day": 0,
+      "start": 1210,
+      "end": 1230,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "a64cfad4-c062-4d07-b0c0-8f0a638e2186",
+      "title": "做饭前花5分钟复盘一下今天的东西",
+      "day": 0,
+      "start": 1080,
+      "end": 1100,
+      "color": 5,
       "location": ""
     }
   ],
