@@ -128,39 +128,12 @@
       "location": ""
     },
     {
-      "id": "73bb4aaf-b51f-46a8-a0b2-8373293c78c3",
-      "title": "放假！！！",
-      "day": 1,
-      "start": 530,
-      "end": 1190,
-      "color": 3,
-      "location": ""
-    },
-    {
-      "id": "3848e4bb-b85f-4a95-aae8-ad876cfcd566",
-      "title": "我真的放假这天干啥都忘啦",
-      "day": 2,
-      "start": 540,
-      "end": 1140,
-      "color": 3,
-      "location": ""
-    },
-    {
       "id": "01ae81a4-e08d-4df2-a87f-5509c5a4cca5",
       "title": "爬白云山",
       "day": 3,
       "start": 510,
       "end": 750,
       "color": 3,
-      "location": ""
-    },
-    {
-      "id": "5b26d0a0-4fc4-4979-88aa-a401860917ce",
-      "title": "北京路！！寿司郎～",
-      "day": 2,
-      "start": 960,
-      "end": 1180,
-      "color": 7,
       "location": ""
     },
     {
@@ -341,6 +314,141 @@
       "start": 1080,
       "end": 1100,
       "color": 5,
+      "location": ""
+    },
+    {
+      "id": "a1dbc29e-cd5a-4d48-9f4c-843174c60dad",
+      "title": "Econ",
+      "day": 1,
+      "start": 580,
+      "end": 660,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "c9b0d569-4bbf-47d0-8d1a-4281b0235a7b",
+      "title": "早上看一下ken和ben的概率吧",
+      "day": 1,
+      "start": 480,
+      "end": 540,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "7fc2b82d-72af-4b18-9a40-b30541b0e12f",
+      "title": "秋",
+      "day": 1,
+      "start": 840,
+      "end": 970,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "8665904f-3511-4f15-b508-2e16b63f76aa",
+      "title": "练胸",
+      "day": 1,
+      "start": 750,
+      "end": 810,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "209298f6-f316-4ce1-a7cb-1670b568e189",
+      "title": "LVG加油！",
+      "day": 1,
+      "start": 720,
+      "end": 760,
+      "color": 0,
+      "location": ""
+    },
+    {
+      "id": "31850026-a181-4a34-bd8e-27ee76fe6d6d",
+      "title": "faze up",
+      "day": 1,
+      "start": 900,
+      "end": 960,
+      "color": 1,
+      "location": ""
+    },
+    {
+      "id": "44483e43-58a9-4906-a2ec-6f4c5fee7166",
+      "title": "找pre reading 题",
+      "day": 1,
+      "start": 1020,
+      "end": 1080,
+      "color": 2,
+      "location": ""
+    },
+    {
+      "id": "47d6d38e-c654-489e-acdd-bc4bd0db7300",
+      "title": "模拟面试！",
+      "day": 1,
+      "start": 1140,
+      "end": 1320,
+      "color": 2,
+      "location": ""
+    },
+    {
+      "id": "d5587c2a-7f1c-407b-9294-df70242ba99a",
+      "title": "Chem",
+      "day": 2,
+      "start": 490,
+      "end": 570,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "f165c18b-a1e3-4799-a6d7-f867b27adf28",
+      "title": "further Math",
+      "day": 2,
+      "start": 580,
+      "end": 660,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "705da2d6-597b-4bc2-8863-e238e5701faf",
+      "title": "PSHE",
+      "day": 2,
+      "start": 680,
+      "end": 720,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "13673ba1-4acf-4a78-bb7c-f4b41310d27b",
+      "title": "English",
+      "day": 2,
+      "start": 820,
+      "end": 900,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "9dea6105-79f7-49ee-a6b8-c1ea8f09ef73",
+      "title": "mock",
+      "day": 2,
+      "start": 1200,
+      "end": 1260,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "71f264c1-ad05-4e8b-88ab-e391c00924c7",
+      "title": "录一道题吧",
+      "day": 2,
+      "start": 1140,
+      "end": 1170,
+      "color": 0,
+      "location": ""
+    },
+    {
+      "id": "3b59fa03-5c7b-4aee-841c-c2e1a8c54c6b",
+      "title": "休息！！！记得爱自己",
+      "day": 2,
+      "start": 930,
+      "end": 1080,
+      "color": 1,
       "location": ""
     }
   ],
