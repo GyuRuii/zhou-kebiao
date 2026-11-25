@@ -128,24 +128,6 @@
       "location": ""
     },
     {
-      "id": "01ae81a4-e08d-4df2-a87f-5509c5a4cca5",
-      "title": "爬白云山",
-      "day": 3,
-      "start": 510,
-      "end": 750,
-      "color": 3,
-      "location": ""
-    },
-    {
-      "id": "ca1b81b3-0029-4494-b3e4-804c65a69d64",
-      "title": "放空。。",
-      "day": 3,
-      "start": 780,
-      "end": 1200,
-      "color": 3,
-      "location": ""
-    },
-    {
       "id": "d867ef19-1a26-4b96-b8b4-64e325f68059",
       "title": "脑子也在放空，，",
       "day": 4,
@@ -426,7 +408,7 @@
     },
     {
       "id": "9dea6105-79f7-49ee-a6b8-c1ea8f09ef73",
-      "title": "mock",
+      "title": "mock pre- reading",
       "day": 2,
       "start": 1200,
       "end": 1260,
@@ -435,7 +417,7 @@
     },
     {
       "id": "71f264c1-ad05-4e8b-88ab-e391c00924c7",
-      "title": "录一道题吧",
+      "title": "mock 题！",
       "day": 2,
       "start": 1140,
       "end": 1170,
@@ -449,6 +431,87 @@
       "start": 930,
       "end": 1080,
       "color": 1,
+      "location": ""
+    },
+    {
+      "id": "3f32c0ab-217c-45a6-8856-add362351262",
+      "title": "你最后没有休息！干了4个小时化学",
+      "day": 2,
+      "start": 820,
+      "end": 1050,
+      "color": 2,
+      "location": ""
+    },
+    {
+      "id": "b8a82a05-0d70-4ab4-a3bc-5234ca72d07b",
+      "title": "Econ",
+      "day": 3,
+      "start": 490,
+      "end": 570,
+      "color": 2,
+      "location": ""
+    },
+    {
+      "id": "564493a4-d2ab-424f-96f4-9251b8ad4ecb",
+      "title": "Further Stat",
+      "day": 3,
+      "start": 680,
+      "end": 760,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "fc4dc130-5d77-4cc6-b039-c4818f74ab88",
+      "title": "Chem",
+      "day": 3,
+      "start": 910,
+      "end": 990,
+      "color": 3,
+      "location": ""
+    },
+    {
+      "id": "f965998c-7d1d-4139-89c1-9c602a17d526",
+      "title": "休息？/看化学？",
+      "day": 3,
+      "start": 600,
+      "end": 660,
+      "color": 4,
+      "location": ""
+    },
+    {
+      "id": "35e9a582-2622-45ef-9f50-1f3b9176c8bc",
+      "title": "练腿！",
+      "day": 3,
+      "start": 780,
+      "end": 840,
+      "color": 5,
+      "location": ""
+    },
+    {
+      "id": "7adeb8f2-03d5-4a81-aced-61e776a196b5",
+      "title": "Faze up！",
+      "day": 3,
+      "start": 840,
+      "end": 900,
+      "color": 6,
+      "location": ""
+    },
+    {
+      "id": "568f5b9e-7df7-41e2-a531-9d75264f40ef",
+      "title": "录一道题",
+      "day": 3,
+      "start": 1020,
+      "end": 1080,
+      "color": 7,
+      "location": ""
+    },
+    {
+      "id": "88760f8c-fbae-4525-9e45-9dcee75de154",
+      "title": "休息吧，准备好明天English",
+      "day": 3,
+      "start": 1140,
+      "end": 1200,
+      "color": 0,
       "location": ""
     }
   ],
